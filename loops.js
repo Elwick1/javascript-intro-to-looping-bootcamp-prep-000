@@ -36,7 +36,6 @@ function doWhileLoop(n) {
   do {
     console.log('I run once regardless.');
   } while (incrementVariable()<n);
-  //return array;
   }
   
   
